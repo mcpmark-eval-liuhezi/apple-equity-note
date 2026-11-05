@@ -1,7 +1,7 @@
 # AAPL Equity Research Note
 
 **Company:** Apple Inc. (AAPL) — NasdaqGS
-**Data source:** Yahoo Finance, figures pulled live at time of writing
+**Data source:** Yahoo Finance, figures pulled live with a Python+yfinance snapshot on 2026-10-21, re-verified for this pull
 **Purpose:** Friday investment-club write-up
 
 All figures below are quoted exactly as returned by the Yahoo Finance source; no numbers from memory.
@@ -58,7 +58,7 @@ Prior-year comparison (FY 2024, period end 2024-09-30): Total Revenue 3910350000
 | **Most recent stock split ratio** | **4:1** |
 | Most recent stock split date | 2020-08-31 |
 
-Recent dividend history (per share): 0.26 on 2026-05-11; 0.26 on 2026-02-09.
+Recent dividend history (per share): 0.26 on 2026-05-11; 0.27 on 2026-08-10.
 
 ## 6. Analyst View
 
@@ -68,24 +68,27 @@ Current recommendation breakdown (period "0m"):
 | --- | --- |
 | **Strong Buy** | **6** |
 | Buy | 18 |
-| Hold | 14 |
+| Hold | 13 |
 | Sell | 3 |
 | Strong Sell | 3 |
 
-Recommendation mean: 2.20455; recommendation key: buy; number of analyst opinions: 39.
+Recommendation mean: 2.23256; recommendation key: buy; number of analyst opinions: 38.
 
 Recent upgrades / downgrades (most recent first):
 
+- 2026-11-03 JP Morgan: Overweight → Overweight (main), price target 360 → 355
+- 2026-11-03 UBS: Neutral → Neutral (main), price target 296 → 340
+- 2026-11-03 Argus Research: Buy → Buy (main), price target 375 → 400
+- 2026-11-03 Barclays: Underweight → Underweight (main), price target 245 → 261
+- 2026-11-03 TD Cowen: Buy → Buy (main), price target 400 → 390
+- 2026-11-03 DA Davidson: Neutral → Neutral (main), price target 270 → 295
 - 2026-10-20 Loop Capital: Buy → Hold (down), price target 370 → 330
-- 2026-10-20 MoffettNathanson: Neutral → Neutral (main), price target 304 → 283
-- 2026-10-12 JP Morgan: Overweight → Overweight (main), price target 340 → 360
-- 2026-10-01 Morgan Stanley: Overweight → Overweight (main), price target 360 → 355
 - 2026-08-17 Rothschild & Co: Neutral → Buy (up), price target 260 → 400
 - 2026-08-10 Jefferies: Hold → Underperform (down), price target 285.56 → 263.66
 
 ## 7. Headlines
 
-- The Yahoo Finance news feed returned no headlines for AAPL at the time of writing ("No news found for company that searched with AAPL ticker."). The feed was polled several times with the same result, so no headlines can be quoted here.
+- The Yahoo Finance finance news feed for AAPL returned "YAHOO! FINANCE IS CURRENTLY DOWN!" on all attempts this session (polled 5 times, including one more immediately before submitting the review trail), with the message "Our engineers are working quickly to resolve the issue. Thank you for your patience." No headlines could be quoted; none invented here.
 
 ---
 
